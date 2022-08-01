@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This repository consist of node js application for transflower students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaishaliPatil1787/sdmexam.git"
+  },
+  "author": "223226_vaishali_patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaishaliPatil1787/sdmexam/issues"
+  },
+  "homepage": "https://github.com/VaishaliPatil1787/sdmexam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
